@@ -1,2 +1,3 @@
 # hello-world
-first, basic tutorial
+
+Hey, hey, here I am learning all about GitHub.
